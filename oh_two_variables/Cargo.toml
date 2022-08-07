@@ -1,5 +1,5 @@
 [package]
-name = "hello-world"
+name = "oh_two_variables"
 version = "0.1.0"
 edition = "2021"
 

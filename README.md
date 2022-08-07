@@ -1,5 +1,6 @@
 
 Udemy Rust Programming master Class : From Beginner to Expert
 
-- testing .gitignore and push from VSCODE
-
+- used cargo new to create separate folders for each section
+- oh_one. . . -> was 01_
+- cargo new doesn't allow projects to start with a number
